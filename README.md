@@ -29,4 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naaam-h-siddhu&show_icons=true&locale=en&layout=compact" alt="naaam-h-siddhu" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naaam-h-siddhu&" alt="naaam-h-siddhu" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=naaam-h-siddhu&" alt="naaam-h-siddhu" /></p>
