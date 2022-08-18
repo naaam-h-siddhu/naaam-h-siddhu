@@ -1,10 +1,10 @@
-![MasterHead align="center"](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ad51477-135a-49ff-a4c0-7a8dcf31184e/d8tbiej-9654ce06-0b65-4c87-92df-4da959936c9a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhZDUxNDc3LTEzNWEtNDlmZi1hNGMwLTdhOGRjZjMxMTg0ZVwvZDh0Ymllai05NjU0Y2UwNi0wYjY1LTRjODctOTJkZi00ZGE5NTk5MzZjOWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IuWLjRKSToutjoqa0ueYWn4pXSaMDq0HUrOljreV1fk)
+![MasterHead align="center"](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 <h1 align="center">Hi 👋, I'm Sudhakar Singh</h1>
 <h3 align="center">A Tech Savvy Boi 👨‍🔧</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
 <p align="left"> <a href="https://twitter.com/naaam_h_siddhu" target="blank"><img src="https://img.shields.io/twitter/follow/naaam_h_siddhu?logo=twitter&style=for-the-badge" alt="naaam_h_siddhu" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k6kikx655y5zhpu3amg8fwu6zv2dwwpvz2eydv9t&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **DSA (c++)**
 
