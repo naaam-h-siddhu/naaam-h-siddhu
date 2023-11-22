@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/naaam_h_siddhu" target="blank"><img src="https://img.shields.io/twitter/follow/naaam_h_siddhu?logo=twitter&style=for-the-badge" alt="naaam_h_siddhu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k6kikx655y5zhpu3amg8fwu6zv2dwwpvz2eydv9t&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **DSA (c++)**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [sudhakarsingh.dev](sudhakarsingh.dev)
 
