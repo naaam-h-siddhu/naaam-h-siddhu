@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [sudhakarsingh.dev](sudhakarsingh.dev)
+
 
 - 📫 How to reach me **sudhakarsingh2004@gmail.com**
 
