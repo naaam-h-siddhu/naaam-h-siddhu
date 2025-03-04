@@ -1,7 +1,6 @@
-![MasterHead align="center"](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d677572652e636f6d2f6337476d414a662e706e67)
 
 <h1 align="center">Hi 👋, I'm Sudhakar Singh</h1>
-<h3 align="center">A Tech Savvy Boi 👨‍🔧</h3>
+
 
 <p align="left">
   <a href="https://twitter.com/naaam_h_siddhu" target="_blank">
@@ -15,7 +14,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me: **sudhakarsingh2004@gmail.com**
-- ⚡ Fun fact: **I think I am GOD**  <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/naaam_h_siddhu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naaam_h_siddhu" height="30" width="40" />
