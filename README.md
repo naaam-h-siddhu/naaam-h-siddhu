@@ -12,7 +12,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **JAVA Spring Boot**
 - 📫 How to reach me: **sudhakarsingh2004@gmail.com**
 <p align="left">
   <a href="https://twitter.com/naaam_h_siddhu" target="_blank">
